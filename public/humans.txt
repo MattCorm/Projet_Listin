@@ -1,0 +1,21 @@
+# TEAM
+
+	Role:		Project Manager, Dev Front-End
+	Name:		Marceau JEANJEAN
+	Twitter:	@Cocodufex
+
+	Role:		Dev Back-End, Git Master
+ 	Name:		Théo FRISON
+ 	Twitter:	@DFG_Arkanii
+
+ 	Role:		Dev Back-End
+ 	Name:		Valentin CARRIÉ
+ 	Twitter:	@CarrieValSIO
+
+ 	Role:		Web Designer, Community Manager, Dev Front-End
+ 	Name:		Matthieu CORMELIER
+ 	Twitter:	@cormelierm
+
+ 	Role:		Content specialist, Dev Front-End
+ 	Name:		Cédric FRÊCHEVILLE
+ 	Twitter:	@Frecheville_c
